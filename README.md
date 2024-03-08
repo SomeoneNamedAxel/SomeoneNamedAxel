@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Axel</h1>
 <h3 align="center">A computer science student</h3>
 
-
+<h3>Github Data</h3>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SomeoneNamedAxel&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <h3 align="left">Skills</h3>
 <h4>Algorithms</h4>
 <p><a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
