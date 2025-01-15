@@ -1,7 +1,8 @@
-# Bonjour, je suis Axel
+# Salut
 
 ### À propos de moi 🪴
-- Je suis étudiant en informatique, spécialisé dans le développement à l'université du Limousin.
+- Etudiant en informatique, spécialisé dans le développement à l'université du Limousin.
+- Alternant à l'Office International de l'Eau.
 - Je souhaite me tourner dans le développement logiciel.
 - Je suis passionné par l'informatique et je programme sur mon temps libre.
 
@@ -11,6 +12,7 @@ Je joue aux jeux vidéos, j'écris un livre, je fais du piano et je développe d
 ### Projets 🚀
 - **Ray tracing (Universitaire)** : Programme en C++ générant une image à partir d'une scène 3D en utilisant un algorithme de lancer de rayons.
 - **Dashboard de statistiques (Universitaire)** : Projet d'application web avec Legrand permettant la synthèse de données filtrées.
+- **Orchard ("Le verger", Universitaire)** : Application Java à propos d'un jeu de société pour enfant.
 - [**Renderers**](https://github.com/SomeoneNamedAxel/Renderers) : Réécriture du projet universitaire de lancer de rayons en Rust. Le but est d'optimiser et d'essayer d'atteindre de la génération en temps réel.
 
 ### Technologies utilisées 💻🛠️
@@ -29,6 +31,17 @@ Je joue aux jeux vidéos, j'écris un livre, je fais du piano et je développe d
 
 #### Autres
 [<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>](https://www.gnu.org/software/bash/) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>](https://www.docker.com/)
+
+### Soft Skills
+
+#### Interpersonnel
+- Adaptabilité
+- Travail en équipe
+
+#### Pesonnel & Professionnel
+- Curiosité
+- Créativité
+- Résolution de problèmes
 
 ### Me contacter 📬
 - **Email** : bidault.axel.antoine@gmail.com
