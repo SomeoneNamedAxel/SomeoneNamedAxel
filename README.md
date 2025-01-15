@@ -32,7 +32,7 @@ Je joue aux jeux vidéos, j'écris un livre, je fais du piano et je développe d
 #### Autres
 [<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>](https://www.gnu.org/software/bash/) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>](https://www.docker.com/)
 
-### Soft Skills
+### Soft Skills 💡
 
 #### Interpersonnel
 - Adaptabilité
