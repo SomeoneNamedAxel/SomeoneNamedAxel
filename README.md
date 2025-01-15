@@ -6,7 +6,7 @@
 - Je suis passionné par l'informatique et je programme sur mon temps libre.
 
 ### Mes passions
-Je joue aux jeux vidéos, j'écris un livre, je fais du piano et je développe. Je crée beaucoup de projets, j'en abandonne beaucoup, et j'en continue beaucoup.
+Je joue aux jeux vidéos, j'écris un livre, je fais du piano et je développe divers programmes sur mon temps libre.
 
 ### Projets
 - **Ray tracing (Universitaire)** : Programme en C++ générant une image à partir d'une scène 3D en utilisant un algorithme de lancer de rayons.
