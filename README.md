@@ -5,14 +5,14 @@
 - Je souhaite me tourner dans le développement logiciel.
 - Je suis passionné par l'informatique et je programme sur mon temps libre.
 
-### Mes passions
+### Mes passions 🎮
 Je joue aux jeux vidéos, j'écris un livre, je fais du piano et je développe divers programmes sur mon temps libre.
 
-### Projets
+### Projets 🚀
 - **Ray tracing (Universitaire)** : Programme en C++ générant une image à partir d'une scène 3D en utilisant un algorithme de lancer de rayons.
 - [**Renderers**](https://github.com/SomeoneNamedAxel/Renderers) : Réécriture du projet universitaire de lancer de rayons en Rust. Le but est d'optimiser et d'essayer d'atteindre de la génération en temps réel.
 
-### Technologies utilisées 🧰
+### Technologies utilisées 💻🛠️
 
 #### Développement Web
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>](https://getbootstrap.com) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>](https://www.w3schools.com/css/) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>](https://www.w3.org/html/) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>](https://www.nginx.com) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>](https://www.php.net) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>](https://reactjs.org/) [<img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/>](https://symfony.com)
@@ -29,6 +29,6 @@ Je joue aux jeux vidéos, j'écris un livre, je fais du piano et je développe d
 #### Autres
 [<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>](https://www.gnu.org/software/bash/) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>](https://www.docker.com/)
 
-### Me contacter
+### Me contacter 📬
 - **Email** : bidault.axel.antoine@gmail.com
 - **LinkedIn** : [juste ici](https://www.linkedin.com/in/axel-bidault-7089ba25b)
