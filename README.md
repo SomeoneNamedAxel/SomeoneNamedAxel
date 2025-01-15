@@ -4,7 +4,7 @@
 - Etudiant en informatique, spécialisé dans le développement à l'université du Limousin.
 - Alternant à l'Office International de l'Eau.
 - Je souhaite me tourner dans le développement logiciel.
-- Je suis passionné par l'informatique et je programme sur mon temps libre.
+- Je suis passionné par l'informatique.
 
 ### Mes passions 🎮
 Je joue aux jeux vidéos, j'écris un livre, je fais du piano et je développe divers programmes sur mon temps libre.
