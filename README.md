@@ -10,6 +10,7 @@ Je joue aux jeux vidéos, j'écris un livre, je fais du piano et je développe d
 
 ### Projets 🚀
 - **Ray tracing (Universitaire)** : Programme en C++ générant une image à partir d'une scène 3D en utilisant un algorithme de lancer de rayons.
+- **Dashboard de statistiques (Universitaire)** : Projet d'application web avec Legrand permettant la synthèse de données filtrées.
 - [**Renderers**](https://github.com/SomeoneNamedAxel/Renderers) : Réécriture du projet universitaire de lancer de rayons en Rust. Le but est d'optimiser et d'essayer d'atteindre de la génération en temps réel.
 
 ### Technologies utilisées 💻🛠️
