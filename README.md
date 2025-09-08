@@ -1,13 +1,13 @@
 # Salut
 
 ### À propos de moi 🪴
-- Etudiant en informatique, spécialisé dans le développement à l'université du Limousin.
-- Alternant à l'Office International de l'Eau.
+- Ex-étudiant en informatique, spécialisé dans le développement à l'université du Limousin.
+- Ex-alternant à l'Office International de l'Eau.
 - Je souhaite me tourner dans le développement logiciel.
 - Je suis passionné par l'informatique.
 
 ### Mes passions 🎮
-Je joue aux jeux vidéos, j'écris un livre, je fais du piano et je développe divers programmes sur mon temps libre.
+J'écris un livre, je fais du piano et je développe divers programmes sur mon temps libre.
 
 ### Projets 🚀
 - **Ray tracing (Universitaire)** : Programme en C++ générant une image à partir d'une scène 3D en utilisant un algorithme de lancer de rayons.
