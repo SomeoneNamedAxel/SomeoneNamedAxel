@@ -13,7 +13,7 @@ J'écris un livre, je fais du piano et je développe divers programmes sur mon t
 - **Ray tracing (Universitaire)** : Programme en C++ générant une image à partir d'une scène 3D en utilisant un algorithme de lancer de rayons.
 - **Dashboard de statistiques (Universitaire)** : Projet d'application web avec Legrand permettant la synthèse de données filtrées.
 - **Orchard ("Le verger", Universitaire)** : Application Java à propos d'un jeu de société pour enfant.
-- [**Vast**]([https://gitlab.com/SomeoneCalledAxel/vast]) : Socle pour un jeu vidéo dont la mission principale est l'affichage optimisé d'un grand nombre de voxels.
+- [**Vast**](https://gitlab.com/SomeoneCalledAxel/vast) : Socle pour un jeu vidéo dont la mission principale est l'affichage optimisé d'un grand nombre de voxels.
 
 ### Technologies utilisées 💻🛠️
 
