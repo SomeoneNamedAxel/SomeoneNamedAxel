@@ -13,7 +13,7 @@ J'écris un livre, je fais du piano et je développe divers programmes sur mon t
 - **Ray tracing (Universitaire)** : Programme en C++ générant une image à partir d'une scène 3D en utilisant un algorithme de lancer de rayons.
 - **Dashboard de statistiques (Universitaire)** : Projet d'application web avec Legrand permettant la synthèse de données filtrées.
 - **Orchard ("Le verger", Universitaire)** : Application Java à propos d'un jeu de société pour enfant.
-- [**Renderers**](https://github.com/SomeoneNamedAxel/Renderers) : Réécriture du projet universitaire de lancer de rayons en Rust. Le but est d'optimiser et d'essayer d'atteindre de la génération en temps réel.
+- [**Vast**]([https://gitlab.com/SomeoneCalledAxel/vast]) : Socle pour un jeu vidéo dont la mission principale est l'affichage optimisé d'un grand nombre de voxels.
 
 ### Technologies utilisées 💻🛠️
 
@@ -31,17 +31,6 @@ J'écris un livre, je fais du piano et je développe divers programmes sur mon t
 
 #### Autres
 [<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>](https://www.gnu.org/software/bash/) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>](https://www.docker.com/)
-
-### Soft Skills 💡
-
-#### Interpersonnel
-- Adaptabilité
-- Travail en équipe
-
-#### Pesonnel & Professionnel
-- Curiosité
-- Créativité
-- Résolution de problèmes
 
 ### Me contacter 📬
 - **Email** : bidault.axel.antoine@gmail.com
